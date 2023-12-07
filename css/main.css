@@ -590,11 +590,11 @@ header{
 ------------------------------------------------------*/
 .protfolio{
 	background:#fff;
-	width:100%;
+	width:75%;
 	overflow:hidden;
 }
 .protfolio .container{
-	padding-top:67px ;
+	padding-top:50px ;
 	padding-bottom:0 ;
 }
 .protfolio .heading {
@@ -694,15 +694,15 @@ ul.portfolioContainer li .lightCon{
 	overflow:hidden;
 }
 ul.portfolioContainer li img{
-	 width:100% !important;
+	 width:75% !important;
 	 height:auto;
 	 display:block;
 }
 
 span.hoverBox{
 	visibility:hidden;
-	width:100%;
-	height:100%;
+	width:70%;
+	height:70%;
 	position: absolute;
 	left:0px;
 	bottom: 0px;
@@ -718,7 +718,7 @@ ul.portfolioContainer li:hover span.hoverBox{
 	left:0px;
 	bottom: 0px;
 	
-	background: rgba(76, 64, 78, 0.9);
+	background: rgba(76, 64, 78, 0);
 	
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
